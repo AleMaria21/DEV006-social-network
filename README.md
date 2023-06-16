@@ -1,6 +1,6 @@
 ## Índice
 
-* [1. Proyecto LKP](#1-Proyecto-Social-Network:-Let-Kids-Play!-(LKP))
+* [1. Proyecto - LKP](#1-Proyecto-Social-Network:-Let-Kids-Play!-(LKP))
 * [2. Historias de usuario](#2-Historias-de-Usuario)
 * [3. Prototipo de baja fidelidad](#3-Diseño)
 * [4. Prototipo de alta fidelidad](#4-Resultado)
